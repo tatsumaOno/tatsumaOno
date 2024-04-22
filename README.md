@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## 🌱 My Skills
+![](https://skillicons.dev/icons?&perline=5&i=aws,dart,flutter,php,laravel,vue,nuxtjs,js,ts,docker,html,css,github,githubactions,mysql)
 <!--
 **tatsumaOno/tatsumaOno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
