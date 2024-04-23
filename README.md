@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 資格
+## 🌱 資格
 ![aws-certified-cloud-practitioner](https://github.com/tatsumaOno/tatsumaOno/assets/48151116/b8f8efe9-afff-44ae-9293-f2e5447e6e26)
 ![aws-certified-solutions-architect-associate](https://github.com/tatsumaOno/tatsumaOno/assets/48151116/4834bd7f-488e-49e1-b00c-941274dd9266)
