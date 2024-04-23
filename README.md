@@ -1,4 +1,3 @@
-## 🌱 スキル
 ![](https://skillicons.dev/icons?&perline=5&i=aws,dart,flutter,php,laravel,vue,nuxtjs,js,ts,docker,html,css,github,githubactions,mysql)
 <!--
 **tatsumaOno/tatsumaOno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## 🌱 資格
 ![aws-certified-cloud-practitioner](https://github.com/tatsumaOno/tatsumaOno/assets/48151116/b8f8efe9-afff-44ae-9293-f2e5447e6e26)
 ![aws-certified-solutions-architect-associate](https://github.com/tatsumaOno/tatsumaOno/assets/48151116/4834bd7f-488e-49e1-b00c-941274dd9266)
